@@ -25,4 +25,4 @@ CPU model：i7-3612QM
 
 <br>
 <br>
-######You can see more Chinese explanation here：http://blog.csdn.net/bone_ace/article/details/41579957######
+#####You can see more Chinese explanation here:http://blog.csdn.net/bone_ace/article/details/41579957#####
