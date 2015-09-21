@@ -9,9 +9,9 @@ In Chinese chess(8*8),with the rules of the Horse,start from a point and travers
 <br>
 <br>
 ##Running Environment:##
-programming language：C language
-programming tools：VC6.0
-system environments：win8 X86
+programming language：C language <br>
+programming tools：VC6.0 <br>
+system environments：win8 X86 <br>
 CPU model：i7-3612QM
 
 <br>
@@ -24,4 +24,4 @@ It can figure out 100 thousand paths in 27 seconds！！！
 
 <br>
 <br>
-####You can see more Chinese explanation Here：http://blog.csdn.net/bone_ace/article/details/41579957####
+#####You can see more Chinese explanation Here：http://blog.csdn.net/bone_ace/article/details/41579957#####
